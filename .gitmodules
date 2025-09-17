@@ -4,7 +4,7 @@
     branch = master
 [submodule "_figure"]
 	path = _figure
-	url = https://github.com/pibook/_figure.git
+	url = https://github.com/pibook/figure.git
 	branch = master
 [submodule "_includes/extras"]
 	path = _includes/extras
